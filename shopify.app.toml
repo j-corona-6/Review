@@ -3,7 +3,7 @@
 client_id = "703b8999c26dd975904bbe546f93a7a6"
 name = "review-checkout-app"
 handle = "review-checkout-app-1"
-application_url = "https://liverpool-caps-murray-rs.trycloudflare.com"
+application_url = "https://mt-calculated-usr-deutschland.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://liverpool-caps-murray-rs.trycloudflare.com/auth/callback",
-  "https://liverpool-caps-murray-rs.trycloudflare.com/auth/shopify/callback",
-  "https://liverpool-caps-murray-rs.trycloudflare.com/api/auth/callback"
+  "https://mt-calculated-usr-deutschland.trycloudflare.com/auth/callback",
+  "https://mt-calculated-usr-deutschland.trycloudflare.com/auth/shopify/callback",
+  "https://mt-calculated-usr-deutschland.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
